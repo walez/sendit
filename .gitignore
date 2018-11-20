@@ -1,0 +1,6 @@
+dist/
+node_modules/
+logs/*.log
+pm2/pm2-prod.json
+pm2/pm2-alpha.json
+.env
